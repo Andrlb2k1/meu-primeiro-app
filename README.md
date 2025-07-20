@@ -6,6 +6,10 @@ npm install -g @angular/cli
 
 ng new meu-primeiro-app (CSS / No SSR and SSG)
 
+npm run start
+
+ng generate component components/home
+
 # MeuPrimeiroApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
