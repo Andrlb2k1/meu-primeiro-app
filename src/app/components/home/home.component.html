@@ -1,1 +1,17 @@
-<p>Olá, mundo!</p>
+<p>Olá, {{name}}!</p>
+
+<button [attr.aria-label]="idButton"></button>
+
+<button (click)="submit()">Clique aqui!</button>
+
+@if(deveMostrarTitulo) {
+    <h1>Título verdadeiro</h1>
+} @else if(name == "André") {
+    <h1>Título verdadeiro para o André</h1>
+} @else {
+    <h1>Título falso</h1>
+}
+
+@for(item of listItems; track item) {
+    <p>{{item}}</p>
+}

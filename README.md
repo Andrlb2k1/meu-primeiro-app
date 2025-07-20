@@ -10,6 +10,8 @@ npm run start
 
 ng generate component components/home
 
+ng generate service services/enviaFormulario
+
 # MeuPrimeiroApp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.15.
