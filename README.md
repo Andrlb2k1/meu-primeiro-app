@@ -1,4 +1,4 @@
-Site feito com angular.
+Aplicação feita com angular, HTML, CSS, JavaScript, JSON e TypeScript.
 
 Comandos:
 
