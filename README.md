@@ -1,4 +1,4 @@
-Aplicação feita com angular, HTML, CSS, JavaScript, JSON e TypeScript.
+Aplicação de testes feita com angular, HTML, CSS, JavaScript, JSON e TypeScript.
 
 Comandos:
 
